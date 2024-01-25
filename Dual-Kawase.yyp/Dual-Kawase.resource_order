@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"spr_helicopter","order":3,"path":"sprites/spr_helicopter/spr_helicopter.yy",},
+    {"name":"kawase_init","order":1,"path":"scripts/kawase_init/kawase_init.yy",},
+    {"name":"kawase_set","order":3,"path":"scripts/kawase_set/kawase_set.yy",},
+    {"name":"kawase_reset","order":5,"path":"scripts/kawase_reset/kawase_reset.yy",},
+    {"name":"kawase_draw","order":7,"path":"scripts/kawase_draw/kawase_draw.yy",},
+    {"name":"power_of_2","order":9,"path":"scripts/power_of_2/power_of_2.yy",},
+    {"name":"shd_kawase_downscale","order":1,"path":"shaders/shd_kawase_downscale/shd_kawase_downscale.yy",},
+    {"name":"shd_kawase_upscale","order":3,"path":"shaders/shd_kawase_upscale/shd_kawase_upscale.yy",},
+    {"name":"fnt_main","order":1,"path":"fonts/fnt_main/fnt_main.yy",},
+    {"name":"obj_control","order":1,"path":"objects/obj_control/obj_control.yy",},
+    {"name":"room_example","order":1,"path":"rooms/room_example/room_example.yy",},
+  ],
+}
